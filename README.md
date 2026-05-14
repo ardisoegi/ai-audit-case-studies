@@ -2,6 +2,7 @@
 
 **Studi Kasus Audit AI Berbasis Dataset Simulasi**
 
+> For audit analysis using real-world datasets with NIST AI RMF context, see [ai_audit_applied_analysis](https://github.com/ardisugiarto/ai_audit_applied_analysis) (WIP)
 ---
 
 ## 🇬🇧 English
@@ -11,8 +12,6 @@
 This repository contains structured AI audit case studies using simulated datasets generated with generative AI assistance.
 
 Each case study follows a full audit report format, from dataset overview to findings, recommendations, and limitations.
-
-> For audit analysis using real-world datasets with NIST AI RMF context, see [ai_audit_applied_analysis](https://github.com/ardisugiarto/ai_audit_applied_analysis)
 
 ### Files
 
@@ -51,8 +50,6 @@ Each case study follows this structure:
 Repositori ini berisi studi kasus audit AI menggunakan dataset simulasi yang dibuat dengan bantuan AI generatif.
 
 Setiap studi kasus mengikuti format laporan audit lengkap, dari overview dataset hingga temuan, rekomendasi, dan limitasi.
-
-> Untuk analisis audit menggunakan dataset nyata dengan konteks NIST AI RMF, lihat [ai_audit_applied_analysis](https://github.com/ardisugiarto/ai_audit_applied_analysis)
 
 ### File
 
