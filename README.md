@@ -2,7 +2,7 @@
 
 **Studi Kasus Audit AI Berbasis Dataset Simulasi**
 
-> For audit analysis using real-world datasets with NIST AI RMF context, see [ai_audit_applied_analysis](https://github.com/ardisugiarto/ai_audit_applied_analysis) (WIP)
+> For audit analysis using real-world datasets with NIST AI RMF context, see [ai_audit_applied_analysis](https://github.com/ardisugiarto/ai_audit_applied_analysis) [WIP]
 ---
 
 ## 🇬🇧 English
